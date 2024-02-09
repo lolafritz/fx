@@ -10,7 +10,7 @@
 </a>
 
 ## Install
-
+        (
 ```sh
 brew install fx
 ```
